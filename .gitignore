@@ -7,4 +7,4 @@ venv/
 .vscode/
 *.egg-info/
 .pytest_cache/
-!results/.gitkeep
+results/
