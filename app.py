@@ -1,4 +1,3 @@
-"""Interactive dashboard for CSMI17 robot / multi-robot path finding."""
 from __future__ import annotations
 
 import sys
@@ -21,7 +20,7 @@ from src.mapf import run_all_mapf
 from src.viz import draw_multi, draw_single
 
 st.set_page_config(
-    page_title="CSMI17 Path Finding",
+    page_title="AI project",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",

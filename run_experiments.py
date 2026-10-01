@@ -1,4 +1,3 @@
-"""CLI: generate CSV summaries used in the report."""
 
 from pathlib import Path
 
